@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Basic Slack app using the Slapp library and Slack Events API",
   "scripts": {
+    "watch": "nodemon server.js",
     "test": "standard"
   },
   "repository": {
@@ -17,6 +18,7 @@
   "homepage": "https://github.com/BeepBoopHQ/starter-slapp-app#readme",
   "dependencies": {
     "express": "^4.14.0",
+    "nodemon": "^1.11.0",
     "slapp": "^1.2.0",
     "slapp-context-beepboop": "^1.1.0",
     "slapp-convo-beepboop": "^1.0.0",

@@ -58,7 +58,7 @@ slapp
 
     msg
       .say(`Ok then. What's your favorite color?`)
-      .route('color')
+      .route('color', state)
   })
   .route('color', (msg, state) => {
     var text = (msg.body.event && msg.body.event.text) || ''
