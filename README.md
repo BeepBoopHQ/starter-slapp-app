@@ -13,15 +13,15 @@ Follow the steps laid out in the wizard. You'll want to enable **Event Subscript
 + `message.channels`
 + `message.im`
 
-Once you've finished setting up your Slack App and saved the `Client ID`, `Client Secret` and `Verification Token` on Beep Boop you'll see a new "Teams" tab on your project.  Navigate there and add your new Slack App to one of your Slack teams.
-
-![Add Team](https://cloud.githubusercontent.com/assets/367275/19364343/012e4922-914b-11e6-8f0a-bb020b016fd2.png)
-
 ### 🔥 it up
 
-With your Slack App added to a team, go ahead and Start your project.
+Once you've finished setting up your Slack App and saved the `Client ID`, `Client Secret` and `Verification Token` on Beep Boop, go ahead and **Start** your project.
 
 ![Start](https://cloud.githubusercontent.com/assets/367275/19364564/edb43efa-914b-11e6-9265-d33122bf5f9a.png)
+
+Once your project has started, go to the **Teams** tab and add your new Slack App to one of your Slack teams.
+
+![Add Team](https://cloud.githubusercontent.com/assets/367275/19364343/012e4922-914b-11e6-8f0a-bb020b016fd2.png)
 
 Send `@slappbot` a Direct Message of `help` to see what it can do.
 
