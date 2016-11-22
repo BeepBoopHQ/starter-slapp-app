@@ -31,7 +31,7 @@ Send `@slappbot` a Direct Message of `help` to see what it can do.
 
 ![Bot Offline](https://cloud.githubusercontent.com/assets/367275/19364857/3944ba24-914d-11e6-9939-a37ed07b954e.png)
 
-Your bot will not show as "online", which is a current limitation of the [Slack Events API](slack-events-api) (no way to set presence). If you really want your bot to show online, [check out this work-around](presence-polyfill).
+Your bot will not show as "online", which is a current limitation of the [Slack Events API][slack-events-api] (no way to set presence). If you really want your bot to show online, [check out this work-around][presence-polyfill].
 
 [bb]: https://beepboophq.com
 [slapp]: https://github.com/BeepBoopHQ/slapp
